@@ -15,5 +15,5 @@ This is a one-page landing, designed to provide information about the therapist,
 
 ## Preview
 
-![Landing Page](https://psykushniruk.vercel.app)
+[View Landing Page](https://psykushniruk.vercel.app)
 
